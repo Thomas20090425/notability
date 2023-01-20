@@ -13,7 +13,16 @@ But how does this work? As you can see the 8 dark blocks above, it that is the p
 Calculation: 
 iPad 6: (2048x0.2x0.15=61.44)
 
-That means the app would only be allowed to allocate 61.44MB of ram in good cases, but notability had rendering feature and because it is made out of plain lines, it also takes up cpu and MORE ram to allow Notability to render!!! that mean it will 100% take more than 61.44MB of ram, eventually it will request more ram usage than iOS would allow, iOS will choose to kill it to keep the OS functioning, this is exactly why the first package can also crash 3gb devices.
+That means the app would only be allowed to allocate 61.44MB of ram in good cases, but notability had rendering feature and because it is made out of plain lines, it also takes up cpu and MORE ram to allow Notability to render!!! that mean it will 100% take more than 61.44MB of ram, eventually it will request more ram usage than iOS would allow, iOS will choose to kill it to keep the OS functioning, this is exactly why the first package can also crash 3gb 
+devices.
+
+# Will this destroy my notes?
+
+No it will not, but I'm not responsible for anything if anythingd did happen to either notability or your device.
+
+# where to download
+
+Releases
 
 # Why
 
